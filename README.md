@@ -1,5 +1,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel-Dominic&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<h1 align="center">Hi 👋, Daniel</h1>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 
 - 🔭 I’m currently working on **My Personal Portfolio**
 
