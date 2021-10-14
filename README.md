@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 
-- 🔭 I’m currently working on **My Personal Portfolio**
+- 🔭 I’m currently working on **My Personal Portfolio Website**
 
 - 🌱 I’m currently learning **JavaScript And Vim**
 
