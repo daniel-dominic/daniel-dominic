@@ -1,18 +1,13 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel-Dominic&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<h1 align="center">Hi 👋, I'm your name</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, Daniel</h1>
 
-- 🔭 I’m currently working on **your Information**
+- 🔭 I’m currently working on **My Personal Portfolio**
 
-- 🌱 I’m currently learning **your Information**
+- 🌱 I’m currently learning **JavaScript And Vim**
 
-- 👯 I’m looking to collaborate on **your Information**
+- 💬 Ask me about **Version Control And Rails**
 
-- 🤝 I’m looking for help with **your Information**
-
-- 💬 Ask me about **your Information**
-
-- ⚡ Fun fact **your Information**
+- ⚡ Fun fact **I like Vim**
 
 
 <h3 align="left">Languages and Tools:</h3>
