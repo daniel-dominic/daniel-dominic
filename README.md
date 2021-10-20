@@ -34,5 +34,5 @@
 </div
 
 <br/>
-(https://activity-graph.herokuapp.com/graph?username=Daniel-Dominic)](https://github.com/Daniel-Dominic/github-readme-activity-graph)
+[![Daniel's github activity graph](https://activity-graph.herokuapp.com/graph?username=Daniel-Dominic)](https://github.com/Daniel-Dominic/github-readme-activity-graph)
 
