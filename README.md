@@ -34,6 +34,5 @@
 </div
 
 <br/>
-
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Daniel-Dominic)](https://github.com/Daniel-Dominic/github-readme-activity-graph)
+(https://activity-graph.herokuapp.com/graph?username=Daniel-Dominic)](https://github.com/Daniel-Dominic/github-readme-activity-graph)
 
