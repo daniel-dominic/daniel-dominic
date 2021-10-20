@@ -6,6 +6,8 @@
 
 - 💬 Ask me about **Version Control And Rails**
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/1y524rnv9rutipyz90dbqlfb6)
