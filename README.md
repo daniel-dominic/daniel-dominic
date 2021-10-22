@@ -46,5 +46,5 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 </h3>
 <div align="center">
-<a align="center" href="#">![GitHub metrics](https://metrics.lecoq.io/Daniel-Dominic)</a>
+<a align="center" href="https://metrics.lecoq.io/Daniel-Dominic">![GitHub metrics](https://metrics.lecoq.io/Daniel-Dominic)</a>
 </div>
