@@ -23,7 +23,7 @@ Spotify Playing 🎧
   
   <div align="center"> 
  <a href="#">
-      <img align="center" alt="GIF" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+      <img align="center" alt="GIF" width"100px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
  </a>
   </div>
 
