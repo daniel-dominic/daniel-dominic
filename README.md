@@ -14,7 +14,7 @@ Spotify Playing 🎧
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1y524rnv9rutipyz90dbqlfb6&cover_image=true&theme=default)
 
-
+</br>
   <h3 align="center">Languages And Tools I Use (Not All Tho)</h3>
   
 
