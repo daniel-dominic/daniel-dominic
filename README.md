@@ -25,7 +25,7 @@ Spotify Playing 🎧
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1y524rnv9rutipyz90dbqlfb6&cover_image=true&theme=default)
 
-      <img align="center" alt="GIF" width"300px" height="300px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+<img align="center" alt="GIF" width"300px" height="300px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
 </br>
 <h2 align="center">
