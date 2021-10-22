@@ -17,7 +17,11 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel-Dominic&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<img align="center"  alt="GIF" height="170px"  src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+<h2 align="center">
+Spotify Playing 🎧
+</h2>  
+
+<img align="right"  alt="GIF" height="170px"  src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1y524rnv9rutipyz90dbqlfb6&cover_image=true&theme=default)
 
@@ -28,7 +32,7 @@
   
   <div align="center"> 
      <a href="#">
-      <img align="center" justify-content="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel-Dominic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel-Dominic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="#">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Dominic&theme=react&line_height=40&hide=css"/>
