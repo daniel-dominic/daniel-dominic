@@ -7,9 +7,9 @@
 - 💬 Ask me about **Version Control And Rails**
 
 
-<h1 align="center">
+<h2 align="center">
 <b>Spotify Playing 🎧</b>
-</h1>  
+</h2>  
 <img align="right" alt="GIF" height="170px"  src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1y524rnv9rutipyz90dbqlfb6&cover_image=true&theme=default)
@@ -42,7 +42,6 @@
   
   <h3 align="center" justify-content="space-evenly">
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
