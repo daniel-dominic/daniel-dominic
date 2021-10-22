@@ -45,5 +45,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 </h3>
-
+<div align="center">
 <a align="center" href="#">![GitHub metrics](https://metrics.lecoq.io/Daniel-Dominic)</a>
+</div>
