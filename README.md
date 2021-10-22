@@ -6,9 +6,10 @@
 
 - 💬 Ask me about **Version Control And Rails**
 
-<img align="center" alt="GIF" height="170px"  src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+
 
 ### Spotify Playing 🎧
+<img align="left" alt="GIF" height="170px"  src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1y524rnv9rutipyz90dbqlfb6&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/1y524rnv9rutipyz90dbqlfb6)
