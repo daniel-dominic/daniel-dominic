@@ -8,7 +8,7 @@
 
 
 <h2 align="center">
-<b>Spotify Playing 🎧</b>
+Spotify Playing 🎧
 </h2>  
 <img align="right" alt="GIF" height="170px"  src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
@@ -26,8 +26,9 @@
 
 
 
-
-  <h2 align="center"> Github Statistics 📈 </h2>
+<h2 align="center">
+  Github Statistics 📈 
+</h2>
   
   <div align="center"> 
      <a href="#">
