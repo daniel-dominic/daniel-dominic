@@ -6,11 +6,17 @@
 
 - 💬 Ask me about **Version Control And Rails**
 
+<style>
+  .image {
+  display: flex;
+  justify-content: center;
+  }
+</style>
 
 <h2 align="center">
 Spotify Playing 🎧
 </h2>  
-<img display="grid" grid-column-start="3"  alt="GIF" height="170px"  src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+<img class="image" alt="GIF" height="170px"  src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1y524rnv9rutipyz90dbqlfb6&cover_image=true&theme=default)
 
