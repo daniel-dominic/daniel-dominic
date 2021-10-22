@@ -15,7 +15,7 @@
 <br/>
 
 <a align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel-Dominic&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img align="center" [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel-Dominic&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)/>
 </a>
 
 </br>
@@ -30,7 +30,7 @@
     <a href="#">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Dominic&theme=react&line_height=40&hide=css"/>
     </a>
-</div
+</div>
 
 <br/>
   
