@@ -18,7 +18,7 @@
 
 </br>
 <h2 align="center">
-  Github Statistics 📈 
+  Github Statistics 
 </h2>
   
   <div align="center"> 
