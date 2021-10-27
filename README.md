@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Version Control And Rails**.
 
-- 🤣 Fun Fact - **I Find Keybord Powerful**
-
 </br>
 
   <h3 align="center">Languages And Tools</h3>
