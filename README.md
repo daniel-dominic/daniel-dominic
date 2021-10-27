@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Version Control And Rails**.
 
-- 🤣 Fun Fact **I Find Keybord Powerful**
+- 🤣 Fun Fact - **I Find Keybord Powerful**
 
 </br>
 
