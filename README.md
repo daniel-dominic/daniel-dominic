@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniel</h1>
-
+<hr/>
 - 🔭 I’m currently working on **My Personal Portfolio Website**.
 
 - 🌱 I’m currently learning **JavaScript And Vim**.
@@ -21,7 +21,7 @@
 <h2 align="center">
   Github Statistics 
 </h2>
-  
+  <hr/>
   <div align="center"> 
      <a href="#">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel-Dominic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
