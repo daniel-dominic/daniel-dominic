@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript And Vim**.
 
-- 💬 Ask me about **Version Control And CLI**.
+- 💬 Ask me about **Version Control And ClI**.
 
 </br>
 
