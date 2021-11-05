@@ -50,4 +50,10 @@
 </h3>
 
 <!-- <a align="center" href="https://metrics.lecoq.io/Daniel-Dominic">![GitHub metrics](https://metrics.lecoq.io/Daniel-Dominic)</a> -->
+
+
+
+
+
+<!-- An Important quote -->
 <!-- Don't compare yourself to others. You have a perfect knowledge of your shortcomings and an imperfect knowledge of their accomplishments. This usually means you're underestimating yourself and overestimating others -->
