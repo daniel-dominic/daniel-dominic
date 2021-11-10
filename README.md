@@ -4,7 +4,7 @@
 Hi!, I'm a 13-year old web developer from India. I started coding when I was 11.
 From then on I started creating websites which you won't believe your eyes.
 
-</br>
+
 - 🔭 I’m currently working on **My Personal Portfolio Website**.
 
 - 🌱 I’m currently learning **JavaScript And Vim**.
