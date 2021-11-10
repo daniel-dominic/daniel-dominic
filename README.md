@@ -9,7 +9,7 @@ From then on I started creating websites which you won't believe <em><b>your eye
 </br>
 <!--There is always space for you ❤️ -->
 
-- 🌱 I’m currently learning **JavaScript And Vim**.
+🌱 I’m currently learning **JavaScript And Vim**. -
 </br>
 
 - 💬 Ask me about **Version Control And CLI**.
