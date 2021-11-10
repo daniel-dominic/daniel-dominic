@@ -5,7 +5,7 @@
 From then on I started creating websites which you won't believe <em><b>your eyes</b></em>.</h4>
 </br>
 
-- 🔭 I’m currently working on **My Personal Portfolio Website**.
+- 🔭 I’m currently working on **My Portfolio Website**.
 
 - 🌱 I’m currently learning **JavaScript And Vim**.
 
