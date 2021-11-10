@@ -15,7 +15,7 @@ From then on I started creating websites which you won't believe <em><b>your eye
 
 </br>
 
-  <h2 align="center">Languages And Tools</h2>
+  <h2 align="right">Languages And Tools</h2>
   
   </br>
 </br>
