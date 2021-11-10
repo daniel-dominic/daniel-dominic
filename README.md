@@ -2,7 +2,7 @@
 
 <h1>Who am i?</h1>
 Hi!, I'm a 13-year old web developer from India. I started coding when I was 11.
-From then on I started creating websites which you won't believe your eyes.
+From then on I started creating websites which you won't believe your <em>eyes</em>.
 </br>
 </br>
 </br>
