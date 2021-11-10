@@ -1,8 +1,8 @@
 <h1 align="center">Hello World!, I'm Daniel.</h1>
 
 <h1>Who am i?</h1>
-Hi!, I'm a 13-year old web developer from India. I started coding when I was 11.
-From then on I started creating websites which you won't believe <em><b>your eyes</b></em>.
+<h5>Hi!, I'm a 13-year old web developer from India. I started coding when I was 11.
+From then on I started creating websites which you won't believe <em><b>your eyes</b></em>.</h5>
 </br>
 </br>
 </br>
