@@ -4,7 +4,6 @@
 <h5>Hi!, I'm a 13-year old web developer from India. I started coding when I was 11.
 From then on I started creating websites which you won't believe <em><b>your eyes</b></em>.</h5>
 </br>
-</br>
 
 - 🔭 I’m currently working on **My Personal Portfolio Website**.
 
