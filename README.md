@@ -18,7 +18,7 @@ From then on I started creating websites which you won't believe <em><b>your eye
 </br>
 </br>
 
-<!--<a align="center" href="https://metrics.lecoq.io/Daniel-Dominic">![GitHub metrics](https://metrics.lecoq.io/Daniel-Dominic)</a>-->[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel-Dominic&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!--<a align="center" href="https://metrics.lecoq.io/Daniel-Dominic">![GitHub metrics](https://metrics.lecoq.io/Daniel-Dominic)</a>--> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel-Dominic&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </br>
 </br>
 </br>
