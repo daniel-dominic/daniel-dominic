@@ -42,10 +42,8 @@ From then on I started creating websites which you won't believe <em><b>your eye
 </div>
 
 <br/>
-  
-  <h3 align="center" justify-content="space-evenly">
 
-  <a align="center" href="https://metrics.lecoq.io/Daniel-Dominic">![GitHub metrics](https://metrics.lecoq.io/Daniel-Dominic)</a>
+<a align="center" href="https://metrics.lecoq.io/Daniel-Dominic">![GitHub metrics](https://metrics.lecoq.io/Daniel-Dominic)</a>
 
 
 
