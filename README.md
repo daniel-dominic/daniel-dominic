@@ -5,14 +5,14 @@
 From then on I started creating websites which you won't believe <em><b>your eyes</b></em>.</h4>
 </br>
 
-- 🔭 I’m currently working on **My Portfolio Website**.
+- 🔭  I’m currently working on **My Portfolio Website**.
 </br>
 <!--There is always space for you ❤️ -->
 
-- 🌱 I’m currently learning **JavaScript And Vim**.
+- 🌱  I’m currently learning **JavaScript And Vim**.
 </br>
 
-- 💬 Ask me about **Version Control And CLI**.
+- 💬  Ask me about **Version Control And CLI**.
 
 </br>
 </br>
