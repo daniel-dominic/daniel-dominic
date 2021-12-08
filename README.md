@@ -1,4 +1,7 @@
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hello World!, I'm Daniel.</h1>
