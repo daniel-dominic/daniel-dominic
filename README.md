@@ -23,7 +23,7 @@ From then on I started creating websites which you won't believe <em><b>your eye
 <a align="right" href="http://github-readme-streak-stats.herokuapp.com?user=Daniel-Dominic">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel-Dominic&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</a>
 
 </br>
-<br>
+</br>
 
 <!--START_SECTION:waka-->
 ```text
