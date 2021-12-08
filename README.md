@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h1 align="center">Hello World!, I'm Daniel.</h1>
 
 <h1>Who am i?</h1>
@@ -44,8 +47,7 @@ From then on I started creating websites which you won't believe <em><b>your eye
     </a>
 
 <br/>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 
 <!-- An Important quote -->
