@@ -27,7 +27,8 @@ From then on I started creating websites which you won't believe <em><b>your eye
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON       12 mins         █████████████████▓░░░░░░░   70.48 % 
+Text       5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.25 % 
 ```
 <!--END_SECTION:waka-->
 </br>
