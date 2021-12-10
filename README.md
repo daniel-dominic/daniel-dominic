@@ -27,8 +27,11 @@ From then on I started creating websites which you won't believe <em><b>your eye
 
 <!--START_SECTION:waka-->
 ```text
-JSON       12 mins         █████████████████▓░░░░░░░   70.48 % 
-Text       5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.25 % 
+HTML       1 hr 18 mins    ██████████████░░░░░░░░░░░   55.48 % 
+JSON       19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+CSS        18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Markdown   16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Text       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 ```
 <!--END_SECTION:waka-->
 </br>
