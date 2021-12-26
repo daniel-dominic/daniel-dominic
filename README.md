@@ -1,8 +1,8 @@
 <h1 align="center">Hello World!, I'm Daniel.</h1>
 
 <h1>Who am i?</h1>
-<h4>I'm a 13-year old curious web developer from India. I started my journey of coding since I was....11!. Yea, two years passed by but didn't do a thing. I know 🥲.
-From then on I started creating fresh and fabulous websites. I do not fix headphones or either will hack reddit account for you.</h4>
+<h4>I'm a curious web developer from India of 13-years of age. I started my journey of coding since I was....11!. Yea, two years passed by but didn't do a thing. I know 🥲.
+But still from then on I started creating fresh and fabulous websites . I do not fix headphones or either will hack reddit accounts for you!</h4>
 </br>
 
 - 🔭 I’m currently working on **My Portfolio Website**.
