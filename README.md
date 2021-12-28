@@ -63,7 +63,7 @@ height="40"/>
 
 <br/>
 
-
+![](https://raw.githubusercontent.com/Daniel-Dominic/github-stats-transparent/output/generated/languages.svg)
 
 <!-- An Important quote -->
 <!-- Don't compare yourself to others. You have a perfect knowledge of your shortcomings and an imperfect knowledge of their accomplishments. This usually means you're underestimating yourself and overestimating others -->
