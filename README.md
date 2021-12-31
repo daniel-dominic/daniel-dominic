@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!, I'm Daniel.</h1>
 
 <h1>Who am i?</h1>
-<h4 font-weight="normal">I'm a curious web developer from India of 13-years of age. I started my journey of coding since I was....11!. Yea, two years passed by but didn't do a thing. I know 🥲.
+<h4 font-weight="normal">I'm just a curious web developer from India. Age? It's 13. I started my journey of coding since I was....11!. Yea, two years passed by but didn't do a thing. I know 🥲.
 But still from then on I started creating fresh and fabulous websites . I do not fix headphones or either will hack reddit accounts for you!</h4>
 </br>
 
@@ -64,3 +64,4 @@ height="40"/>
 <br/>
 <!-- An Important quote -->
 <!-- Don't compare yourself to others. You have a perfect knowledge of your shortcomings and an imperfect knowledge of their accomplishments. This usually means you're underestimating yourself and overestimating others -->
+ <!--I hate India!-->
