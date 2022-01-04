@@ -18,7 +18,7 @@ But still from then on I started creating fresh and fabulous websites and many m
 - 🚀 My Primary coding language? **It's Less**, for now.
 <br>
 
-- ⚡ Fun Fact I use **Natural Scrolling**.
+- ⚡ Fun Fact: I use **Natural Scrolling**.
  
 </br>
 </br>
