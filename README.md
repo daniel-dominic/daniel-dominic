@@ -13,6 +13,10 @@ But still from then on I started creating fresh and fabulous websites and many m
 </br>
 
 - 💬 Ask me about **Version Control And CLI**.
+
+- 🚀 My Primary coding language? It's Less, for now
+
+- ⚡ I use Natural Scrolling.
  
 </br>
 </br>
