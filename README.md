@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!, I'm Daniel.</h1>
+# Hello World!, I'm Daniel.
 
 <h1>Who am i?</h1>
 <h4 font-weight="normal">I'm just a curious web developer from India. Age? It's 13. I started my journey of coding since I was....11!. Yea, two years passed by but didn't do a thing. I know 🥲.
