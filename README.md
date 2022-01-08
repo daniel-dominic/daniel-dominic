@@ -31,11 +31,11 @@ But still from then on I started creating fresh and fabulous websites and many m
 
 <!--START_SECTION:waka-->
 ```text
-HTML         6 hrs 44 mins   ████████████▒░░░░░░░░░░░░   49.29 % 
-LESS         5 hrs 15 mins   █████████▓░░░░░░░░░░░░░░░   38.42 % 
-CSS          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Markdown     31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+HTML         6 hrs 18 mins   █████████████████▒░░░░░░░   69.24 % 
+LESS         1 hr 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Markdown     31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+JavaScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 <!--END_SECTION:waka-->
 </br>
