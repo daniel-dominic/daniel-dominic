@@ -49,7 +49,7 @@ JSON         7 mins          ▒░░░░░░░░░░░░░░░░
 </br>
 </br>
 
-  <h1 align="center"><b>Languages And Tools</b></h1>
+  <h2 align="center"><b>Languages And Tools⚒️</b></h2>
   
 </br>
 <div style="text-decoration: none !important;">
@@ -65,7 +65,7 @@ height="40"/>
 </div>
  
 
-
+<h2 align="center">Github Stats 📊</h2>
   <div align="center"> 
      <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Dominic&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Daniel's Github Stats">
