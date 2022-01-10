@@ -72,7 +72,6 @@ JSON         7 mins          ▒░░░░░░░░░░░░░░░░
  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 </p>
  <br>
- <br>
 
 <h2 align="center">Github Stats 📊</h2>
 <!-- Github stats here -->
