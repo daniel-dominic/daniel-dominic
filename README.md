@@ -72,16 +72,12 @@ JSON         7 mins          ▒░░░░░░░░░░░░░░░░
  <br>
 
 <h2 align="center">Github Stats 📊</h2>
+
   <div align="center"> 
      <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Dominic&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Daniel's Github Stats">
     </a>
 
- <a href="#">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Dominic&theme=react&line_height=40&hide=css"/>
-    </a>
-
 <br/>
 <!-- An Important quote -->
 <!-- Don't compare yourself to others. You have a perfect knowledge of your shortcomings and an imperfect knowledge of their accomplishments. This usually means you're underestimating yourself and overestimating others -->
- <!--I hate India!-->
