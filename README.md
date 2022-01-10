@@ -2,6 +2,7 @@
  Welcome to Daniel Dominic's Profile
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=%23A9B6CC&size=50&center=true&width=830&height=150&lines=Hello+World%2C+I'm+Daniel.;Full-Stack+Web+And+App+Developer.;Experienced+UI%2FUX+Developer.;Always+learning+new+things.)](https://git.io/typing-svg)
 
 <h1>Who am i?</h1>
