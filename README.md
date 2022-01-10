@@ -48,8 +48,6 @@ JSON         7 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </br>
 </br>
-
-  <h2 align="center"><b>Languages And Tools⚒️</b></h2>
   
 </br>
 <h2 align="left">:hammer_and_wrench: Languages And Tools:</h2>
