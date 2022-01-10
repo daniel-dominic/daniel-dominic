@@ -34,7 +34,7 @@ But still from then on I started creating fresh and fabulous websites and many m
 </br>
 <div align="center">
  
- <h2 align="center">Github Streak :fire:<h2>
+ <h2 align="center">Github Streak :fire:</h2>
  <!-- Streak Counter here -->
  
 <a align="right" href="http://github-readme-streak-stats.herokuapp.com?user=Daniel-Dominic">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel-Dominic&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</a></div>
@@ -43,6 +43,7 @@ But still from then on I started creating fresh and fabulous websites and many m
 </br>
 
 <h2 align="center">:computer: This Week I Spent My Time On:</h2>
+
 <!--START_SECTION:waka-->
 ```text
 HTML         3 hrs 41 mins   ██████████▒░░░░░░░░░░░░░░   41.78 % 
