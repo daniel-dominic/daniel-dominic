@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoLisa&color=%2336BCF7&size=27&center=true&vCenter=true&width=500&lines=Hello+World%2C+I'm+Daniel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=%23A9B6CC&size=30&center=true&width=500&height=100&lines=Hello+World%2C+I'm+Daniel.;Full-Stack+Web+And+App+Developer.;Experienced+UI%2FUX+Developer.;Always+learning+new+things.)](https://git.io/typing-svg)
 
 <h1>Who am i?</h1>
 <h4 font-weight="normal">I'm just a curious web developer from India. Age? It's 13. I started my journey of coding since I was....11!. Yea, two years passed by but didn't do a thing. I know 🥲.
