@@ -44,6 +44,7 @@ But still from then on I started creating fresh and fabulous websites and many m
 
 <h2 align="center">🎵 Music Time 🎵</h2> 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1y524rnv9rutipyz90dbqlfb6&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1y524rnv9rutipyz90dbqlfb6&redirect=true)
+
 </br>
 </br>
 <h2 align="center">:computer: This Week I Spent My Time On:</h2>
