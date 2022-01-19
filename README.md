@@ -53,10 +53,9 @@ But still from then on I started creating fresh and fabulous websites and many m
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 51 mins   ████████████████████████▒   97.77 % 
-SCSS         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+JavaScript   8 hrs 38 mins   ████████████████████████▓   98.45 % 
+SCSS         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 <!--END_SECTION:waka-->
 </br>
