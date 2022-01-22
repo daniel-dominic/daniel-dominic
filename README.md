@@ -49,6 +49,11 @@ But still from then on I started creating fresh and fabulous websites and many m
 </div>
 </br>
 </br>
+<h2 align="center">Sudo Joke</h2>
+
+[![sudo-makemeasandwich-01.png](https://i.postimg.cc/VsZjB6Jd/sudo-makemeasandwich-01.png)](https://postimg.cc/t7PZ99tj)
+</br>
+</br>
 <h2 align="center">:computer: This Week I Spent My Time On:</h2>
 
 <!--START_SECTION:waka-->
