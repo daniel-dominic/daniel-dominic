@@ -49,8 +49,8 @@ But still from then on I started creating fresh and fabulous websites and many m
 </div>
 </br>
 </br>
-<h2 align="center" border-radius="10px">Classic XKCD 🤣</h2>
-<div align="center">
+<h2 align="center"Classic XKCD 🤣</h2>
+<div align="center"  border-radius="10px">>
 
 [![sudo-makemeasandwich-01.png](https://i.postimg.cc/VsZjB6Jd/sudo-makemeasandwich-01.png)](https://postimg.cc/t7PZ99tj)
  </div>
