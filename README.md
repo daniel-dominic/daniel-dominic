@@ -24,7 +24,7 @@ But still from then on I started creating fresh and fabulous websites and many m
 - 💬 Ask me about **Version Control And CLI**.
 <br>
 
-- 🚀 My Primary coding language? **It's Less**, for now.
+- 🚀 My Primary coding language? **Typescript**, for now.
 <br>
 
 - ⚡ Fun Fact: I use **Natural Scrolling**.
