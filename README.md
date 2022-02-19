@@ -102,5 +102,6 @@ HTML         26 mins         █▒░░░░░░░░░░░░░░░
     </a>
 
 <br/>
+ 
  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 <!-- Don't compare yourself to others. You have a perfect knowledge of your shortcomings and an imperfect knowledge of their accomplishments. This usually means you're underestimating yourself and overestimating others -->
