@@ -61,8 +61,6 @@ But still from then on I started creating fresh and fabulous websites and many m
 
 <!--START_SECTION:waka-->
 ```text
-Total: 6 hrs 48 mins
-
 JavaScript   6 hrs 20 mins   ██████████████████▒░░░░░░   73.18 % 
 Other        1 hr 51 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.40 % 
 HTML         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
