@@ -60,13 +60,13 @@ But still from then on I started creating fresh and fabulous websites and many m
 <h2 align="center">:computer: This Week I Spent My Time On:</h2>
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   6 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   36.11 % 
-HTML         4 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.72 % 
-Other        3 hrs 27 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Python       1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Markdown     55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+JavaScript   5 hrs 49 mins   █████████░░░░░░░░░░░░░░░░   35.57 %
+HTML         5 hrs 24 mins   ████████▒░░░░░░░░░░░░░░░░   33.04 %
+Other        3 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   20.48 %
 ```
+
 <!--END_SECTION:waka-->
 </br>
 </br>
