@@ -14,7 +14,7 @@
 But still from then on I started creating fresh and fabulous websites and many more things. I do not fix headphones or either will hack reddit accounts for you!</h4>
 </br>
 
-<img align="right" width="30%" height="auto" src="extra-stuff/Gif.gif" height="30px"/>
+<img align="right" width="30%" height="auto" src="extra-stuff/Gif.gif" height="30px" style="padding: 20px;"/>
 
 - 🔭 I’m currently working on **My Portfolio Website**.
 </br>
