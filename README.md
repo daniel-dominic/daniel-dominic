@@ -64,12 +64,11 @@ But still from then on I started creating fresh and fabulous websites and many m
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   44.97 %
-JSON         2 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   20.08 %
-Docker       47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-TypeScript   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-HTML         42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-Other        41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+JavaScript   3 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   40.13 %
+JSON         2 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.14 %
+Docker       47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+TypeScript   46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+Other        31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
