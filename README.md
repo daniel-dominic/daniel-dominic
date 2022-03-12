@@ -47,7 +47,7 @@ But still from then on I started creating fresh and fabulous websites and many m
 </div>
 </br>
 </br>
-<h2 align="center">Classic XKCD</h2>
+<h2 align="center">Programming xkcds</h2>
 
 <div align="center"  border-radius="10px">
 
@@ -55,7 +55,7 @@ But still from then on I started creating fresh and fabulous websites and many m
  </div>
 </br>
 </br>
-<h2 align="center">:computer: This Week I Spent My Time On:</h2>
+<h2 align="center">Spent My Pricless Time On</h2>
 
 <!--START_SECTION:waka-->
 
