@@ -20,7 +20,7 @@ But still from then on I started creating fresh and fabulous websites and many m
 </br>
 <!--There is always space for you ❤️ -->
 
-- 🌱 I’m currently learning **JavaScript And Vim**.
+- 🌱 I’m currently learning **Rust, cause It's cool.**.
 </br>
 
 - 💬 Ask me about **Version Control And CLI**.
