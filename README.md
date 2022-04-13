@@ -15,10 +15,6 @@
 
 <!-- <img align="right" width="30%" height="auto" src="extra-stuff/Gif.gif" height="30px" style="padding: 20px;"/> -->
 
-- I’m currently functioning on **Javascript to fr*k off**.
-</br>
-<!--There is always space for you ❤️ -->
-
 - I’m currently learning **Rust, cause It's cool.**.
 </br>
 
