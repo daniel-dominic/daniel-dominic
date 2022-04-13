@@ -9,9 +9,8 @@
  
  </a></div>
 
-<h1>Who am i?</h1>
-<h4 font-weight="normal">I'm just a curious web developer from India. Age? It's 13. I started my journey of coding since I was....11!. Yea, two years passed by but didn't do a thing. I know 🥲.
-But still from then on I started creating fresh and fabulous websites and many more things. I do not fix headphones or either will hack reddit accounts for you!</h4>
+<h1>Who, me?</h1>
+<h4 font-weight="normal">A mild mannered, patient and tenderly forgiving vimmocent by day and a churlish, grumpy and astutely critical vimquisitor by night.</h4>
 </br>
 
 <!-- <img align="right" width="30%" height="auto" src="extra-stuff/Gif.gif" height="30px" style="padding: 20px;"/> -->
