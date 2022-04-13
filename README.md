@@ -25,7 +25,7 @@
 - Ask me about **Vim And CLI**.
 <br>
 
-- My Primary coding language? **Python, yk cause it's simple**.
+- My Primary coding language? **Python, yk cause it's effortless *nervous laugh* **.
 <br>
 
 - Fun Fact: I use **ambi-scroll-rous and keyboard-rous**.
