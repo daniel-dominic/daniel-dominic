@@ -15,27 +15,27 @@
 
 <!-- <img align="right" width="30%" height="auto" src="extra-stuff/Gif.gif" height="30px" style="padding: 20px;"/> -->
 
-- 🔭 I’m currently working on **My Portfolio Website**.
+- I’m currently functioning on **Javascript to fuck off**.
 </br>
 <!--There is always space for you ❤️ -->
 
-- 🌱 I’m currently learning **Rust, cause It's cool.**.
+- I’m currently learning **Rust, cause It's cool.**.
 </br>
 
-- 💬 Ask me about **Version Control And CLI**.
+- Ask me about **Vim And CLI**.
 <br>
 
-- 🚀 My Primary coding language? **Python**.
+- My Primary coding language? **Python, yk cause it's simple**.
 <br>
 
-- ⚡ Fun Fact: I use **Natural Scrolling**.
+- Fun Fact: I use **ambi-scroll-rous and keyboard-rous**.
  
 </br>
 </br>
 </br>
 <div align="center">
  
- <h2 align="center">Github Streak 🔥</h2>
+ <h2 align="center">Github Streak</h2>
  <!-- Streak Counter here -->
  
 <a align="right" href="http://github-readme-streak-stats.herokuapp.com?user=Daniel-Dominic">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel-Dominic&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</a></div>
@@ -54,7 +54,7 @@
  </div>
 </br>
 </br>
-<h2 align="center">Spent My Pricless Time On</h2>
+<h2 align="center">Spent My Worthless Time On</h2>
 
 <!--START_SECTION:waka-->
 
