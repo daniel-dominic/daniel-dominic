@@ -24,7 +24,7 @@
 - My Primary coding language? **Python, yk cause it's effortless *nervous laugh***.
 <br>
 
-- Fun Fact: I'm **ambi-scroll-rous and keyboard-rous**.
+- Astute Facts: I'm **ambi-scroll-rous and keyboard-rous** (Not proud of it tho).
  
 </br>
 </br>
