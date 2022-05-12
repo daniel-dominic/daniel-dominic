@@ -48,6 +48,8 @@
 <div align="center"  border-radius="10px">
 
 [![sudo-makemeasandwich-01.png](https://i.postimg.cc/VsZjB6Jd/sudo-makemeasandwich-01.png)](https://postimg.cc/t7PZ99tj)
+ 
+[![pointers.png](https://i.postimg.cc/vm5pCyZR/pointers.png)](https://postimg.cc/PLr38BDK)
  </div>
 </br>
 </br>
