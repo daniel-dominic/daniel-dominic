@@ -49,7 +49,11 @@
 
 [![sudo-makemeasandwich-01.png](https://i.postimg.cc/VsZjB6Jd/sudo-makemeasandwich-01.png)](https://postimg.cc/t7PZ99tj)
  
+ <div align="right">
+  
 [![pointers.png](https://i.postimg.cc/vm5pCyZR/pointers.png)](https://postimg.cc/PLr38BDK)
+ </div>
+  
  </div>
 </br>
 </br>
