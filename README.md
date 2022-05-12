@@ -43,7 +43,7 @@
 
 </br>
 </br>
-<h2 align="center">Programming xkcds</h2>
+<h2 align="center">xkcds</h2>
 
 <div align="center"  border-radius="10px">
 
