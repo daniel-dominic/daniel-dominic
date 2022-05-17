@@ -1,13 +1,14 @@
 <!-- <h3 align="center">
  Welcome to Daniel Dominic's Profile
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
-</h3>
+<!-- </h3>
 
 <div align="center"><a href="#" align="center">
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=%23FEA443&size=40&center=true&width=830&height=150&lines=Hello+World%2C+I'm+Daniel.;Full-Stack+Web+And+App+Developer.;Experienced+UI%2FUX+Developer.;Always+learning+new+things.)](https://git.io/typing-svg)
  
- </a></div> -->
+ </a></div> 
+-->
 
 <h1>Who, me?</h1>
 <h4 font-weight="normal">A subtle mild mannered, patient and tenderly forgiving vimmocent by day and a churlish, grumpy and astutely critical vimquisitor by night.</h4>
