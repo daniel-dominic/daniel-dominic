@@ -19,7 +19,7 @@
 - I’m currently learning **Rust, cause It's cool.**.
 </br>
 
-- Ask me about **Vim And CLI**.
+- Ask me of **Vim And CLI**.
 <br>
 
 - I Primarily Python, yk cause it's effortless *nervous laugh*.
