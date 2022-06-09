@@ -71,6 +71,9 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </br>
 </br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/Daniel%20Dominic#4605)](https://discord.com/users/Daniel%20Dominic#4605)
+</br>
+</br>
   <!--Tools Icons Here-->
 </br>
 <h2 align="center">:hammer_and_wrench: Languages And Tools:</h2>
