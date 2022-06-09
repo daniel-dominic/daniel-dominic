@@ -72,7 +72,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 </br>
 </br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/Daniel Dominic#4605)](https://discord.com/users/Daniel Dominic#4605)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/912567522186907658?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Perpetually%20procrastinating,%20prolly%20doin'%20somethin'%20else....)](https://discord.com/users/912567522186907658))
 </br>
 </br>
   <!--Tools Icons Here-->
