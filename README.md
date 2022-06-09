@@ -72,7 +72,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 </br>
 </br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/Daniel%20Dominic#4605)](https://discord.com/users/Daniel%20Dominic#4605)
+[![Discord Presence](https://lanyard.cnrad.dev/api/Daniel Dominic#4605)](https://discord.com/users/Daniel Dominic#4605)
 </br>
 </br>
   <!--Tools Icons Here-->
