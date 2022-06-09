@@ -71,6 +71,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </br>
 </br>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/Daniel%20Dominic#4605)](https://discord.com/users/Daniel%20Dominic#4605)
 </br>
 </br>
