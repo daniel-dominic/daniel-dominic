@@ -25,7 +25,7 @@
 - I Primarily Python, yk cause it's effortless *nervous laugh*.
 <br>
 
-- Astute Facts: I'm **ambi-scroll-rous and keyboard-rous** (Not proud of it tho).
+- Ambidexterous.
  
 </br>
 </br>
