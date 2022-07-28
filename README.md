@@ -22,7 +22,7 @@
 - Ask me of **Vim And CLI**.
 <br>
 
-- I Primarily Python, yk cause it's effortless *nervous laugh*.
+- A rustic. Loving this new experience like hell.
 <br>
 
 - Ambidexterous.
